@@ -1,0 +1,5 @@
+3f8971940f35433267a0313c29d00d9c
+
+https://api.themoviedb.org/3/trending/movie/day?language=en-US&api_key=MY_API_KEY
+
+https://api.themoviedb.org/3/search/movie?api_key=3f8971940f35433267a0313c29d00d9c&&query=avengers
