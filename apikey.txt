@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 7766250 (resolved movieCard error)
